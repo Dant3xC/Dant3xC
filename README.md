@@ -71,11 +71,10 @@ Busco una **Práctica Profesional Supervisada (Ley 26.427)** donde la IA deje de
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dant3xC&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dant3xC&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=Dant3xC&theme=radical&hide_border=true)
+![Followers](https://img.shields.io/github/followers/Dant3xC?style=for-the-badge&logo=github&logoColor=white&color=1a5276&label=Followers)
+![Stars](https://img.shields.io/github/stars/Dant3xC?style=for-the-badge&logo=github&logoColor=white&color=1a5276&label=Stars)
+![Repos](https://img.shields.io/badge/Repos-17-1a5276?style=for-the-badge&logo=github&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=Dant3xC&color=1a5276&style=for-the-badge&label=Profile+views)
 
 </div>
 
