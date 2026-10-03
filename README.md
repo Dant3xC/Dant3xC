@@ -2,7 +2,7 @@
 
 **Ingeniero en Informática (UCASAL) · Python · IA & LLMs · Full-Stack (Next.js/React) · Datos & Geo**
 
-📍 Salta, Argentina · 🚗 Movilidad propia · 🎓 5° año, 80% de avance · 💼 Disponible para PPS part-time (4-5 hs/día)
+📍 Salta, Argentina · 🚗 Movilidad propia · 🎓 5° año, 80% de avance · 💼 PPS en IPV
 
 ---
 
